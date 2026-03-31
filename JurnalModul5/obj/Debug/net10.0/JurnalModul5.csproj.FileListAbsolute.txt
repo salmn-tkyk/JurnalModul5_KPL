@@ -1,0 +1,5 @@
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 5\Jurnal_Modul5\JurnalModul5\JurnalModul5\obj\Debug\net10.0\JurnalModul5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 5\Jurnal_Modul5\JurnalModul5\JurnalModul5\obj\Debug\net10.0\JurnalModul5.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 5\Jurnal_Modul5\JurnalModul5\JurnalModul5\obj\Debug\net10.0\JurnalModul5.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 5\Jurnal_Modul5\JurnalModul5\JurnalModul5\obj\Debug\net10.0\JurnalModul5.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Documents\Tugas_kuliah_Salman\Coding Semerster 4\KONSTRUKSI PERANGKAT LUNAK\Praktikum\Praktikum Minggu 5\Jurnal_Modul5\JurnalModul5\JurnalModul5\obj\Debug\net10.0\JurnalModul5.sourcelink.json
